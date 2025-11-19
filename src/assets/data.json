@@ -39,6 +39,11 @@
 
   "professional_experience": [
     {
+      "designation": "Pipe Stress Engineer",
+      "organization": "Petrocon Engineers and Consultants",
+      "duration": "04-08-2025 to till now"
+    },
+    {
       "designation": "Assistant Professor (C)",
       "organization": "UCEK, JNTUK, Kakinada",
       "duration": "02-08-2018 to 07-12-2021"
@@ -61,9 +66,9 @@
     "duration": "60 days (13th Sept 2016 to 12th Nov 2016)"
   },
 
-  "certifications": ["Waste to Energy Conversion (NPTEL - SWAYAM)", "Mechanical Unit Operations (NPTEL - SWAYAM)"],
+  "certifications": ["Pipe Stress Analysis using CAESAR II FULL Crash Course", "Waste to Energy Conversion (NPTEL - SWAYAM)", "Mechanical Unit Operations (NPTEL - SWAYAM)"],
 
-  "computer_knowledge": ["Aspen Plus (Basics)", "MATLAB", "UNISIM", "PIPESIM", "Pipeline Studio", "MBAL"],
+  "computer_knowledge": ["CAESAR II", "NAVI WORKS", "SP3D", "AUTOCAD", "Aspen Plus (Basics)", "MATLAB", "UNISIM", "PIPESIM", "Pipeline Studio", "MBAL"],
 
   "subjects_taught": [
     "Pipeline Engineering Design",
