@@ -1,0 +1,119 @@
+{
+  "name": "Sowjanya Vendra",
+  "email": "sowjanyach449@gmail.com",
+  "phone": "9032418230",
+  "profession_name": "Pipe Stress Engineer",
+
+  "professional_summary": "Innovative and accomplished Assistant Professor with a proven track record in leveraging technology for curriculum delivery and student assessment. Strong scientific background with expertise in Chemical and Petroleum technology, keenly interested in applying skills to the Oil, Gas and Chemical industry. Passionate about analytical and problem-solving skills to optimise processes, reduce costs, and ensure environmental compliance. Dedicated to safer, efficient and sustainable industry practices.",
+
+  "academic_profile": [
+    {
+      "qualification": "M.Tech (Pipeline Engineering)",
+      "board_university": "JNTUK",
+      "institution": "University College of Engineering Kakinada",
+      "percentage": "78%",
+      "duration": "2015-2017"
+    },
+    {
+      "qualification": "B.Tech (Chemical Engineering)",
+      "board_university": "Acharya Nagarjuna University",
+      "institution": "Bapatla Engineering College, Bapatla",
+      "percentage": "75%",
+      "duration": "2011-2015"
+    },
+    {
+      "qualification": "Intermediate",
+      "board_university": "Board of Intermediate Education",
+      "institution": "Aditya Junior College, Kakinada",
+      "percentage": "91.4%",
+      "duration": "2009-2011"
+    },
+    {
+      "qualification": "S.S.C",
+      "board_university": "Board of S.S.C",
+      "institution": "St. Ann's Girls High School, Kakinada",
+      "percentage": "87%",
+      "duration": "2008-2009"
+    }
+  ],
+
+  "professional_experience": [
+    {
+      "designation": "Assistant Professor (C)",
+      "organization": "UCEK, JNTUK, Kakinada",
+      "duration": "02-08-2018 to 07-12-2021"
+    },
+    {
+      "designation": "Assistant Professor",
+      "organization": "Kakinada Institute of Technology, Corangi",
+      "duration": "02-06-2018 to 01-08-2018"
+    }
+  ],
+
+  "projects": {
+    "under_graduation": "Production of Mono Ethylene Glycol",
+    "post_graduation": "Detecting and Monitoring of Internal Corrosion of Oil Pipelines"
+  },
+
+  "industrial_experience": {
+    "company": "Visakha-Vijaywada-Secunderabad Pipeline (VVSPL), HPCL, Visakhapatnam",
+    "project_title": "Leak Detection System",
+    "duration": "60 days (13th Sept 2016 to 12th Nov 2016)"
+  },
+
+  "certifications": ["Waste to Energy Conversion (NPTEL - SWAYAM)", "Mechanical Unit Operations (NPTEL - SWAYAM)"],
+
+  "computer_knowledge": ["Aspen Plus (Basics)", "MATLAB", "UNISIM", "PIPESIM", "Pipeline Studio", "MBAL"],
+
+  "subjects_taught": [
+    "Pipeline Engineering Design",
+    "Pipeline Project Evaluation and Management",
+    "Pipeline Network Analysis",
+    "Pipeline Economics Laws and Policies",
+    "Pipeline Route Selection and Surveying",
+    "Mechanical Unit Operations",
+    "Offshore Drilling",
+    "Integrated Asset Management"
+  ],
+
+  "laboratories_associated": [
+    "Advanced Numerical Methods & Applied Statistics Laboratory (MATLAB)",
+    "Pipeline Simulation & Analysis Laboratory (PIPESIM)",
+    "Momentum Transfer Laboratory",
+    "Petroleum Reservoir Engineering Laboratory",
+    "Petroleum Reservoir Simulation Laboratory",
+    "Mechanical Unit Operations Laboratory",
+    "Process Dynamics and Control Laboratory",
+    "Mathematical Methods Laboratory",
+    "Pipeline Network Analysis Laboratory (MATLAB)",
+    "Basic Mechanical Engineering Laboratory"
+  ],
+
+  "guidance_provided": {
+    "btech_projects": 7,
+    "mtech_projects": 2
+  },
+
+  "conferences_workshops": [
+    "National Workshop on Intellectual Property Rights, R&D and Innovation, UCEK, JNTUK",
+    "Workshop on Oil & Gas Pipelines",
+    "Faculty Development Programme on Noise & Vibration Control of Structures (Engineering Applications), UCEK, JNTUK",
+    "Organized Petroleum events in SPE INDHAN 2K19, Department of Petroleum & Petrochemical Engineering, UCEK, JNTUK",
+    "FDP on Downstream Processing of Oil and Gas: Petroleum Refining, UCEK, JNTUK",
+    "Organized FDP on Oil & Gas: Exploration and Production, UCEK, JNTUK",
+    "Faculty coordinator for Skill Development Programme (Petroleum Engineering), UCEK (A), JNTUK",
+    "STTP on Nanotechnology and Functional Materials, AICTE, 17-22 August 2020",
+    "4-day FDP on Advanced Technologies in Chemical Industries, IIChE-SPCET",
+    "AICTE Sponsored STTP-I on Industrial Pollution & Control Strategies, Anurag Group of Institutions"
+  ],
+
+  "personal_details": {
+    "father_name": "V. Venkata Satyanarayana",
+    "permanent_address": "D.No.51-9-40, Gudimetlavari Street, Jagannaickpur, Kakinada, East Godavari, Andhra Pradesh, 533002",
+    "date_of_birth": "15 May 1993",
+    "languages_known": ["Telugu", "English"],
+    "marital_status": "Married",
+    "nationality": "Indian",
+    "interests_hobbies": ["Playing Tennikoit", "Throwball", "Singing", "Dancing"]
+  }
+}

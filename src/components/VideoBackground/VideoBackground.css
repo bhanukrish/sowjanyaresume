@@ -1,0 +1,39 @@
+/* Full-page host */
+.video-shell {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.background-video {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -3;
+  pointer-events: none;
+}
+
+.video-overlay {
+  position: fixed;
+  inset: 0;
+  /* background: linear-gradient(120deg, rgba(2, 6, 23, 0.85), rgba(5, 12, 24, 0.65)); */
+  background: linear-gradient(120deg, rgba(2, 6, 23, 0.28), rgba(5, 12, 24, 0.66));
+  z-index: -2;
+  pointer-events: none;
+}
+
+.content-layer {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.glass-filter {
+  position: absolute;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
